@@ -1,0 +1,15 @@
+p.intro {
+  width: 50%;
+  font-style: sans-serif;
+}
+
+h2.intro {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+img.intro {
+  width: 50%;
+
+}
