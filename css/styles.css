@@ -13,3 +13,11 @@ img.intro {
   width: 50%;
 
 }
+
+.yellow-background {
+  background-color: yellow;
+  margin: 3px;
+  padding: 3px;
+  border: solid black 5px;
+
+}
